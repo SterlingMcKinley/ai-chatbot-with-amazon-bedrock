@@ -3,13 +3,13 @@
 In this project I built an AI-powered chatbot that uses Amazon Bedrock's Converse API to chat with the Amazon Nova 2 Lite foundation model, maintaining conversation history across multiple messages. Added a custom system prompt to give the chatbot a specific personality. Tune inference parameters like temperature, top_p, and max_tokens to control AI responses. Lastly, created a Bedrock Guardrail with content filtering for responsible AI.
 
 Tools used:
--Linux
--Python
--Boto3
--Amazon Bedrock
--AWS CloudShell
--Bedrock Converse API
--BedrockGuardrails
+- Linux
+- Python
+- Boto3
+- Amazon Bedrock
+- AWS CloudShell
+- Bedrock Converse API
+- BedrockGuardrails
 
 # SYSTEM DIAGRAM
 
