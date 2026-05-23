@@ -13,6 +13,9 @@ Tools used:
 
 # SYSTEM DIAGRAM
 
+<img width="632" height="458" alt="ai-chatbot-with-amazon-bedrock_" src="https://github.com/user-attachments/assets/13525f7e-75ef-4bbc-9629-7fe39822bd2e" />
+<br> </br>
+
 To complete this project:
 
 1. Started AWS CloudShell
@@ -29,3 +32,6 @@ To complete this project:
 
 4. Modified the python script by adding guardrailConfig. The guardrail ID is REQUIRED from the AWS console
    -guardrailVersion is set to "DRAFT" because the guardrail has not been published yet.
+
+<img width="1482" height="727" alt="Chatbot_Multi-turn_conversation" src="https://github.com/user-attachments/assets/33226b95-6bf3-4f75-a9c4-0eb9187aa120" />
+
